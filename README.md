@@ -16,8 +16,7 @@ Tackle algorithmic challenges and design efficient software systems.
 
 💼 Highlighted Projects:
 
-G3 Architects: A responsive frontend website designed for an architectural firm, featuring modern UI/UX practices 
-               and cross-device compatibility to showcase services and portfolios.
+G3 Architects: A responsive frontend website designed for an architectural firm.
 Library Management System: A Python-based CLI application for managing book lending and record tracking.
 Top 5 Players Selection App: A dynamic, user-driven web app for interactive content management.
 
